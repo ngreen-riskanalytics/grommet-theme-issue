@@ -1,0 +1,8 @@
+{
+  "short_name": "Theme Issue",
+  "name": "Grommet Theme Switching Font Color Issue",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#012345",
+  "background_color": "#fedcba"
+}
